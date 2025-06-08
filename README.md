@@ -1,1 +1,1 @@
-# vibe-coding-pygame-with-amazon-q-connect
+# Vibe Coding A Simple PyGame With Amazon Q Connect
