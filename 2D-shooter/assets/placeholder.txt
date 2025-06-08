@@ -1,0 +1,18 @@
+This is a placeholder file. You'll need to add the following files to this directory:
+
+Image files:
+1. player.png - The player's spaceship
+2. enemy.png - Enemy spaceships
+3. bullet.png - Player's bullets
+4. enemy_bullet.png - Enemy bullets
+5. explosion1.png through explosion9.png - Explosion animation frames
+6. powerup_shield.png - Shield power-up
+7. powerup_gun.png - Weapon power-up
+
+Sound files:
+1. background.wav - Background music
+2. laser.wav - Shooting sound
+3. explosion.wav - Explosion sound
+4. powerup.wav - Power-up collection sound
+
+You can create these assets yourself or download suitable free assets from sites like OpenGameArt.org or itch.io.
