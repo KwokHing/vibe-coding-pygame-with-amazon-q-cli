@@ -10,3 +10,4 @@ STEP 2: Install Amazon Q CLI on your machine. Here are two guides from Ricardo S
 
 ## Building a game with only prompts using Amazon Q CLI
 STEP 3: Start a chat session with Amazon Q CLI and build a game with just prompts in the chat.
+STEP 4: Refine 
