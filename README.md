@@ -16,3 +16,5 @@ STEP 4: Refine the game by adding more features using only prompts <br/>
 ## Final game output
 
 You can view the final game output [here](images/Game%20Demo.mp4)
+
+![2D shooter game](images/Fix%20Invisible%20Bullet%20Bug.png)
